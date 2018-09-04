@@ -2,4 +2,4 @@
 
 ## A basic general library. 
 
-[ÖÐÎÄ](https://github.com/ujnss/libhry/blob/master/README.md).
+[ä¸­æ–‡](https://github.com/ujnss/libhry/blob/master/README.md).
