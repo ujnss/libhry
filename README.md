@@ -1,5 +1,6 @@
 # libhry
 
-## Ò»¸ö»ù´¡Í¨ÓÃ¿â¡£
+## ä¸€ä¸ªåŸºç¡€é€šç”¨åº“ã€‚
 
+[ENGLISH](https://github.com/ujnss/libhry/blob/master/README-EN.md).
 
