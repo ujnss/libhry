@@ -1,3 +1,13 @@
+
+build
+target
+sftp-config.json
+
+# Visual Studio
+*.vs
+*.suo
+
+
 # Prerequisites
 *.d
 
